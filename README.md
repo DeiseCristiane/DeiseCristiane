@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Deise Cristiane. 👋
 
-- 🌱 Estudando  Engenharia de Software e Análise de Dados.
+- 🌱 Graduando Engenharia de Software e Análise de Dados.
 - 📫 Contate-me no email: dcs12@discente.ifpe.edu.br
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: ...
